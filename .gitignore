@@ -1,0 +1,7 @@
+﻿# Arquivos compilados do Java
+*.class
+
+# Saídas comuns de IDE e compilação
+out/
+build/
+target/
